@@ -1,3 +1,3 @@
 # DesktopClock
 
-A text clock display on desktop, wrtten by WTL 10.
+A text clock display on Windows desktop, written by WTL 10.
